@@ -8,6 +8,7 @@ C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Release\Xamarin.Forms.Platform.pdb
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Release\Xamarin.Forms.Xaml.pdb
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Release\TestDrive.csprojResolveAssemblyReference.cache
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Release\TestDrive.Views.ListagemView.xaml.g.cs
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Release\TestDrive.App.xaml.g.cs
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Release\TestDrive.Views.DetalheView.xaml.g.cs

@@ -5,15 +5,30 @@
              Title="{Binding Path=veiculo.Nome}">
     <StackLayout Orientation="Vertical" Padding="5">
         <TableView>
-            <TableRoot>
+            <TableRoot Title="TesteTitleTableRoot">
                 <TableSection Title="Seus Dados">
-                    <EntryCell Label="Nome:"></EntryCell>
-                    <EntryCell Label="Fone:" Keyboard="Telephone"></EntryCell>
-                    <EntryCell Label="E-mail"></EntryCell>
+                    <EntryCell Label="Nome:" Text="{Binding Nome}"></EntryCell>
+                    <EntryCell Label="Fone:" Text="{Binding Telefone}" Keyboard="Telephone"></EntryCell>
+                    <EntryCell Label="E-mail" Text="{Binding Email}" Keyboard="Email"></EntryCell>
                 </TableSection>
                 <TableSection Title="Agendamento">
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Margin="12,0,0,0">
+                            <Label Text="Data:"></Label>
+                            <DatePicker Date="{Binding DataAgendamento}">
+                                <DatePicker.Format>dd/MM/yyyy</DatePicker.Format>
+                            </DatePicker>
+                        </StackLayout>
+                    </ViewCell>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Margin="12,0,0,0">
+                            <Label Text="Hora:"></Label>
+                            <TimePicker Time="{Binding HoraAgendamento}"></TimePicker>
+                        </StackLayout>
+                    </ViewCell>
                 </TableSection>
             </TableRoot>
         </TableView>
+        <Button Text="Agendar" Clicked="Button_Clicked"></Button>
     </StackLayout>
 </ContentPage>

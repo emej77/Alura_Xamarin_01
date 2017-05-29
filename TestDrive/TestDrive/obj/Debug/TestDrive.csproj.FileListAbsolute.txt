@@ -1,0 +1,17 @@
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\TestDrive.dll
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\TestDrive.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.csprojResolveAssemblyReference.cache
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.Views.ListagemView.xaml.g.cs
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.App.xaml.g.cs
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.Views.DetalheView.xaml.g.cs
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.Views.AgendamentoView.xaml.g.cs
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.dll
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive\obj\Debug\TestDrive.pdb

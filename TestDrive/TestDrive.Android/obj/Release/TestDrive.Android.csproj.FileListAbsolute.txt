@@ -40,3 +40,11 @@ C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\res\values\styles.xml
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\R.cs.flag
 C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\uploadflags.txt
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\bin\Release\TestDrive.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\bin\Release\TestDrive.Android.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\android\assets\TestDrive.Android.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\android\assets\TestDrive.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_Xamarin_01\TestDrive\TestDrive.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
